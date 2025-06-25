@@ -18,7 +18,7 @@ Welcome to **Godly~**, my personal and ever-growing collection of:
 ## 📂 Contents
 
 - 🔥 [GPT Prompts](prompts.md) – Ask smart, get smarter
-- [jailbr3ak](jailbr3ak.md) - if u know u know
+- 👌 [jailbr3ak](jailbr3ak.md) - if u know u know
 - 🧠 Snippets (coming soon)
 - 🤖 Automation Ideas (coming soon)
 - 📋 Notes & Concepts (coming soon)
